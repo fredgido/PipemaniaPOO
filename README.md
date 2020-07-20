@@ -1,6 +1,9 @@
 
 **PIPEMANIA**
 
+![alt text](image--002.png)
+
+
 **-TRABALHO PRÁTICO-**
 
 ```
@@ -52,6 +55,7 @@ que utilizámos em conjunto com o Eclipse.
 3
 ```
 ## 2 METODOLOGIA
+![alt text](image--004.png)
 
 Decidimos desenvolver o jogo _PipeMania_ através de várias classes e subclasses,
 sendo elas:
